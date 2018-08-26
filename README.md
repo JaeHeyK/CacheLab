@@ -1,5 +1,5 @@
 # CacheLab
-A small C program that simulates the behavior of a cache memory
+A small C program (`csim.c`) that simulates the behavior of a cache memory
 
 ## Reference Trace Files
 The traces subdirectory contains a collection of reference trace files that we will use to evaluate the
